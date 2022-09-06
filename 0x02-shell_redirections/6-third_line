@@ -1,2 +1,2 @@
 #!/bin/bash
-cat new.txt | head | tail --line=+7
+cat ./iacta | head | tail --line=+7
